@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "org.leanflutter.plugins.flutter_svprogresshud-merged_res-10:/drawable-xxxhdpi-v4/svprogresshud_info.png",
+        "source": "org.leanflutter.plugins.flutter_svprogresshud-main-4:/drawable-xxxhdpi/svprogresshud_info.png"
+    },
+    {
+        "merged": "org.leanflutter.plugins.flutter_svprogresshud-merged_res-10:/drawable-xxxhdpi-v4/svprogresshud_error.png",
+        "source": "org.leanflutter.plugins.flutter_svprogresshud-main-4:/drawable-xxxhdpi/svprogresshud_error.png"
+    },
+    {
+        "merged": "org.leanflutter.plugins.flutter_svprogresshud-merged_res-10:/drawable-xxxhdpi-v4/svprogresshud_success.png",
+        "source": "org.leanflutter.plugins.flutter_svprogresshud-main-4:/drawable-xxxhdpi/svprogresshud_success.png"
+    },
+    {
+        "merged": "org.leanflutter.plugins.flutter_svprogresshud-merged_res-10:/drawable-xxxhdpi-v4/svprogresshud_spinning.png",
+        "source": "org.leanflutter.plugins.flutter_svprogresshud-main-4:/drawable-xxxhdpi/svprogresshud_spinning.png"
+    }
+]

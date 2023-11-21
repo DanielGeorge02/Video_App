@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "org.leanflutter.plugins.flutter_svprogresshud-merged_res-10:/anim/svprogresshud_hudview_fade_in.xml",
+        "source": "org.leanflutter.plugins.flutter_svprogresshud-main-4:/anim/svprogresshud_hudview_fade_in.xml"
+    },
+    {
+        "merged": "org.leanflutter.plugins.flutter_svprogresshud-merged_res-10:/anim/svprogresshud_bg_fade_out.xml",
+        "source": "org.leanflutter.plugins.flutter_svprogresshud-main-4:/anim/svprogresshud_bg_fade_out.xml"
+    },
+    {
+        "merged": "org.leanflutter.plugins.flutter_svprogresshud-merged_res-10:/anim/svprogresshud_bg_fade_in.xml",
+        "source": "org.leanflutter.plugins.flutter_svprogresshud-main-4:/anim/svprogresshud_bg_fade_in.xml"
+    },
+    {
+        "merged": "org.leanflutter.plugins.flutter_svprogresshud-merged_res-10:/anim/svprogresshud_hudview_fade_out.xml",
+        "source": "org.leanflutter.plugins.flutter_svprogresshud-main-4:/anim/svprogresshud_hudview_fade_out.xml"
+    }
+]

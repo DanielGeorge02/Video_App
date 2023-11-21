@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "org.leanflutter.plugins.flutter_svprogresshud-merged_res-10:/layout/notification_template_icon_group.xml",
+        "source": "org.leanflutter.plugins.flutter_svprogresshud-core-1.6.0-2:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "org.leanflutter.plugins.flutter_svprogresshud-merged_res-10:/layout/notification_template_part_time.xml",
+        "source": "org.leanflutter.plugins.flutter_svprogresshud-core-1.6.0-2:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "org.leanflutter.plugins.flutter_svprogresshud-merged_res-10:/layout/custom_dialog.xml",
+        "source": "org.leanflutter.plugins.flutter_svprogresshud-core-1.6.0-2:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "org.leanflutter.plugins.flutter_svprogresshud-merged_res-10:/layout/notification_action_tombstone.xml",
+        "source": "org.leanflutter.plugins.flutter_svprogresshud-core-1.6.0-2:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "org.leanflutter.plugins.flutter_svprogresshud-merged_res-10:/layout/notification_action.xml",
+        "source": "org.leanflutter.plugins.flutter_svprogresshud-core-1.6.0-2:/layout/notification_action.xml"
+    },
+    {
+        "merged": "org.leanflutter.plugins.flutter_svprogresshud-merged_res-10:/layout/notification_template_part_chronometer.xml",
+        "source": "org.leanflutter.plugins.flutter_svprogresshud-core-1.6.0-2:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "org.leanflutter.plugins.flutter_svprogresshud-merged_res-10:/layout/svprogresshud_layout.xml",
+        "source": "org.leanflutter.plugins.flutter_svprogresshud-main-4:/layout/svprogresshud_layout.xml"
+    }
+]

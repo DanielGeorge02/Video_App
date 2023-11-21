@@ -1,0 +1,12 @@
+org.leanflutter.plugins.flutter_svprogresshud-jetified-window-1.0.0-beta04-0 C:\Users\hp\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+org.leanflutter.plugins.flutter_svprogresshud-jetified-annotation-experimental-1.1.0-1 C:\Users\hp\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+org.leanflutter.plugins.flutter_svprogresshud-core-1.6.0-2 C:\Users\hp\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+org.leanflutter.plugins.flutter_svprogresshud-jetified-window-java-1.0.0-beta04-3 C:\Users\hp\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+org.leanflutter.plugins.flutter_svprogresshud-main-4 C:\Users\hp\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_svprogresshud-1.0.0\android\src\main\res
+org.leanflutter.plugins.flutter_svprogresshud-release-5 C:\Users\hp\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_svprogresshud-1.0.0\android\src\release\res
+org.leanflutter.plugins.flutter_svprogresshud-pngs-6 D:\Clicks\clicks\build\flutter_svprogresshud\generated\res\pngs\release
+org.leanflutter.plugins.flutter_svprogresshud-resValues-7 D:\Clicks\clicks\build\flutter_svprogresshud\generated\res\resValues\release
+org.leanflutter.plugins.flutter_svprogresshud-rs-8 D:\Clicks\clicks\build\flutter_svprogresshud\generated\res\rs\release
+org.leanflutter.plugins.flutter_svprogresshud-mergeReleaseResources-9 D:\Clicks\clicks\build\flutter_svprogresshud\intermediates\incremental\release\mergeReleaseResources\merged.dir
+org.leanflutter.plugins.flutter_svprogresshud-mergeReleaseResources-10 D:\Clicks\clicks\build\flutter_svprogresshud\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+org.leanflutter.plugins.flutter_svprogresshud-merged_res-11 D:\Clicks\clicks\build\flutter_svprogresshud\intermediates\merged_res\release

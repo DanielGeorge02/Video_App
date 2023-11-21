@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "864068779012",
+    "project_id": "videoapp-9fc5e",
+    "storage_bucket": "videoapp-9fc5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864068779012:android:63297979c3f03ee3914951",
+        "android_client_info": {
+          "package_name": "com.example.clicks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR5nm6L_dOhZE3Yi_TXHc2yUHQLxzTW1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864068779012:android:3f8737a4d051cc16914951",
+        "android_client_info": {
+          "package_name": "com.example.vedioapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR5nm6L_dOhZE3Yi_TXHc2yUHQLxzTW1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
